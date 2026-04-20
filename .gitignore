@@ -1,0 +1,54 @@
+# Node modules
+node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.*
+
+# Vite cache
+.vite/
+
+# VS Code settings
+.vscode/
+
+# Coverage reports
+coverage/
+
+# Misc
+*.local
+*.sublime-workspace
+*.sublime-project
+
+# Windows system files
+*.lnk
+
+# Mac system files
+.AppleDouble/
+.LSOverride
+Icon?
+
+# IDEs
+.idea/
+*.iml
+
+# Tailwind JIT cache
+.tailwind*
+
+# PostCSS cache
+.postcssrc.js
+
+# Others
+*.log
